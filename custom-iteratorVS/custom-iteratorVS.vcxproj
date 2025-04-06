@@ -137,7 +137,6 @@
     <ClInclude Include="include\Iterator.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include=".gitignore" />
     <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\CL.command.1.tlog" />
     <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\Cl.items.tlog" />
     <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\CL.read.1.tlog" />

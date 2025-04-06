@@ -41,7 +41,6 @@
     <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\link.read.1.tlog" />
     <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\link.secondary.1.tlog" />
     <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\link.write.1.tlog" />
-    <None Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="custom-i.b60b5fd8\x64\Debug\custom-iteratorVS.log" />
