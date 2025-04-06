@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Iterator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+    <None Include="x64\Debug\custom-iteratorVS.pdb" />
+    <None Include="x64\Debug\custom-iteratorVS.exe" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-iteratorVS.exe.recipe" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-iteratorVS.ilk" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\vc143.idb" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\vc143.pdb" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\CL.command.1.tlog" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\Cl.items.tlog" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\CL.read.1.tlog" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\CL.write.1.tlog" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\custom-iteratorVS.lastbuildstate" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\link.command.1.tlog" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\link.read.1.tlog" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\link.secondary.1.tlog" />
+    <None Include="custom-i.b60b5fd8\x64\Debug\custom-i.b60b5fd8.tlog\link.write.1.tlog" />
+    <None Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="custom-i.b60b5fd8\x64\Debug\custom-iteratorVS.log" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="custom-i.b60b5fd8\x64\Debug\main.obj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+*.obj
+*.pdb
+*.idb
+*.user
+*.suo
+*.wsuo
+*.VC.db
+*.ipch
+*.log
+*.tlog
+*.cache
+*.ilk
+x64/
+Debug/
+Release/
+.vs/
