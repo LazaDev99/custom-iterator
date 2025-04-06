@@ -25,3 +25,10 @@ Custom-made Iterator need: 26 milliseconds
 STL iterator need: 109 milliseconds
 2 3 4 5 6
 6 5 4 3 2
+
+
+⚠️ Note on Performance Comparison
+
+The reason the custom-made iterator appears faster in the test is because it is minimalistic and performs only raw pointer arithmetic, with no additional overhead. On the other hand, the STL iterator is part of a much more robust, safe, and feature-rich system designed to support a wide variety of use cases, container types, and debugging mechanisms.
+
+This custom implementation is not meant to replace the STL iterator. It serves as a learning tool or a potential lightweight alternative in highly specific scenarios where performance is critical and safety or flexibility can be sacrificed.
